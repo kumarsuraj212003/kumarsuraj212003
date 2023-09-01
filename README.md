@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kumarsuraj212003
+- 👋 Hi, I’m Suraj
 - 👀 I’m interested in open source
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on basic projects
